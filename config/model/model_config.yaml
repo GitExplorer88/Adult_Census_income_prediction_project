@@ -1,0 +1,9 @@
+model_name: "XGBoost"
+
+hyperparameters:
+  learning_rate: null
+  max_depth: null
+  n_estimators: null
+  iterations: null
+  regularization: null
+  random_state: 42
